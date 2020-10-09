@@ -1,4 +1,4 @@
-package com.applehub.dp.cglib;
+package com.applehub.dp.proxy.cglib;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

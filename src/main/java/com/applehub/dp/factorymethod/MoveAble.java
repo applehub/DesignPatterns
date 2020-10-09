@@ -1,5 +1,5 @@
 package com.applehub.dp.factorymethod;
 
-public interface Moveable {
+public interface MoveAble {
     void go();
 }

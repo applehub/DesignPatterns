@@ -8,7 +8,7 @@ public class Main {
         FileOutputStream fos = new FileOutputStream(f);
         OutputStreamWriter osw = new OutputStreamWriter(fos);
         BufferedWriter bw = new BufferedWriter(osw);
-        bw.write("http://www.mashibing.com");
+        bw.write("http://www.applehub.com");
         bw.flush();
         bw.close();
     }
